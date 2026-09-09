@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|c:\\git\\ap02032_2\\mainproject\\projectcopy\\project\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\viewmodel\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\edittaskdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\edittaskdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\editlistdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editlistdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\model\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\model\\tasktemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\tasktemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F159D129-9848-4977-AD11-61E3DCE6F50C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\d3941448e57a22ee4b098500b397e104ca578f5a20940d57ae2f4330dae5bfdd\\EditTaskDialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\1909d58a955ae7febc6b58db577d4d237f3c1fd2728c7349a1b4adcfba92bcab\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\Task.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Model\\Task.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\Task.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAADwv0gAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:33:56.03Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditListDialog.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\EditListDialog.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditListDialog.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\EditListDialog.cs",
+              "RelativeToolTip": "WpfApp1\\EditListDialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:20:49.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditTaskDialog.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\EditTaskDialog.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditTaskDialog.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\EditTaskDialog.cs",
+              "RelativeToolTip": "WpfApp1\\EditTaskDialog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:41:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jsonhelper.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Jsonhelper.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Jsonhelper.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Jsonhelper.cs",
+              "RelativeToolTip": "WpfApp1\\Jsonhelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:35:14.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:16:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Model\\List.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\List.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Model\\List.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:35:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskTemp.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Model\\TaskTemp.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\TaskTemp.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\Model\\TaskTemp.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\TaskTemp.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:43:36.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListViewModel.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\ViewModel\\ToDoListViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\ToDoListViewModel.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\ViewModel\\ToDoListViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\ToDoListViewModel.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAowOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:23:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T14:44:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\git\\AP02032_2\\MainProject\\Projectcopy\\Project\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:39:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditTaskDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\d3941448e57a22ee4b098500b397e104ca578f5a20940d57ae2f4330dae5bfdd\\EditTaskDialog.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\d3941448e57a22ee4b098500b397e104ca578f5a20940d57ae2f4330dae5bfdd\\EditTaskDialog.cs",
+              "ToolTip": "C:\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\d3941448e57a22ee4b098500b397e104ca578f5a20940d57ae2f4330dae5bfdd\\EditTaskDialog.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\d3941448e57a22ee4b098500b397e104ca578f5a20940d57ae2f4330dae5bfdd\\EditTaskDialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:03:46.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\1909d58a955ae7febc6b58db577d4d237f3c1fd2728c7349a1b4adcfba92bcab\\MainWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\1909d58a955ae7febc6b58db577d4d237f3c1fd2728c7349a1b4adcfba92bcab\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\1909d58a955ae7febc6b58db577d4d237f3c1fd2728c7349a1b4adcfba92bcab\\MainWindow.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\Notebook\\AppData\\Local\\Temp\\.vsdbgsrc\\1909d58a955ae7febc6b58db577d4d237f3c1fd2728c7349a1b4adcfba92bcab\\MainWindow.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwGQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:59:48.967Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 678,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
